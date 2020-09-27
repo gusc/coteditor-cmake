@@ -146,6 +146,8 @@ values:
 - beginString: "ON"
 - beginString: "YES"
 - beginString: "NO"
+- beginString: "TRUE"
+- beginString: "FALSE"
 keywords:
 - beginString: "include"
 - beginString: "if"
@@ -163,6 +165,18 @@ keywords:
 - beginString: "function"
 - beginString: "endfunction"
 - beginString: "return"
+- beginString: "PROPERTIES"
+- beginString: "STATIC"
+- beginString: "SHARED"
+- beginString: "OBJECT"
+- beginString: "MODULE"
+- beginString: "UNKNOWN"
+- beginString: "REQUIRED"
+- beginString: "IN"
+- beginString: "LISTS"
+- beginString: "PUBLIC"
+- beginString: "PRIVATE"
+- beginString: "IMPORTED"
 attributes:
 strings:
 - beginString: "\""
